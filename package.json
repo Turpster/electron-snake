@@ -1,0 +1,12 @@
+{
+    "name": "Electron-Snake",
+    "version": "0.1.0",
+    "main": "app.js",
+    "description": "A snake game using the electron framework",
+    "scripts": {
+        "start": "electron ."
+      },
+    "dependencies": {
+        "electron": "^2.0.8"
+    }
+}
